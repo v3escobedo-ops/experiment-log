@@ -1,1 +1,2 @@
 This is some content for my new text file.
+Edited from GitHub interface.
